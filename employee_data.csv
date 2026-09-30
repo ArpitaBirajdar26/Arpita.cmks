@@ -1,0 +1,16 @@
+Employee ID,Full Name,Age,Employee Salary,Department,Email,City,Joining Date
+101,Rahul Sharma,25.0,45000.0,IT,rahul@gmail.com,Pune,2022-01-15
+102,Priya Patel,29.0,52000.0,HR,priya@gmail.com,Mumbai,2021-06-20
+103,Amit Kumar,32.0,48000.0,Finance,amit@gmail.com,Nashik,2020-03-10
+104,Sneha Joshi,,55000.0,IT,,Pune,
+105,Vikas Singh,28.0,,Sales,vikas@gmail.com,,2023-02-18
+106,Neha Deshmukh,35.0,60000.0,HR,neha@gmail.com,Mumbai,2019-11-25
+101,Rahul Sharma,25.0,45000.0,IT,rahul@gmail.com,Pune,2022-01-15
+102,Priya Patel,29.0,52000.0,HR,priya@gmail.com,Mumbai,2021-06-20
+107,Rohit Patil,,51000.0,,rohit@gmail.com,Nashik,2023-08-12
+108,,31.0,,Finance,,,
+109,Karan Mehta,27.0,47000.0,Sales,karan@gmail.com,Pune,2022-09-01
+110,Anjali Shah,30.0,58000.0,IT,anjali@gmail.com,Mumbai,2021-12-15
+111,Amit Kumar,32.0,48000.0,Finance,amit@gmail.com,Nashik,2020-03-10
+112,Pooja Verma,26.0,42000.0,Marketing,pooja@gmail.com,Pune,2024-01-20
+113,Sameer Khan,,65000.0,,sameer@gmail.com,,2023-05-10

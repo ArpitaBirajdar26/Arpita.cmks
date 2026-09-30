@@ -1,0 +1,16 @@
+,Employee ID,Name,Surname,Age,Employee Salary,Department,Email,City,Joining Date
+0,101,Rahul,Sharma,25.0,45000.0,IT,rahul@gmail.com,Pune,2022-01-15
+1,102,Priya,Patel,29.0,52000.0,HR,priya@gmail.com,Mumbai,2021-06-20
+2,103,Amit,Kumar,32.0,48000.0,Finance,amit@gmail.com,Nashik,2020-03-10
+3,104,Sneha,Joshi,29.083333333333332,55000.0,IT,,Pune,
+4,105,Vikas,Singh,28.0,51384.61538461538,Sales,vikas@gmail.com,,2023-02-18
+5,106,Neha,Deshmukh,35.0,60000.0,HR,neha@gmail.com,Mumbai,2019-11-25
+6,101,Rahul,Sharma,25.0,45000.0,IT,rahul@gmail.com,Pune,2022-01-15
+7,102,Priya,Patel,29.0,52000.0,HR,priya@gmail.com,Mumbai,2021-06-20
+8,107,Rohit,Patil,29.083333333333332,51000.0,Unassigned,rohit@gmail.com,Nashik,2023-08-12
+9,108,,,31.0,51384.61538461538,Finance,,,
+10,109,Karan,Mehta,27.0,47000.0,Sales,karan@gmail.com,Pune,2022-09-01
+11,110,Anjali,Shah,30.0,58000.0,IT,anjali@gmail.com,Mumbai,2021-12-15
+12,111,Amit,Kumar,32.0,48000.0,Finance,amit@gmail.com,Nashik,2020-03-10
+13,112,Pooja,Verma,26.0,42000.0,Marketing,pooja@gmail.com,Pune,2024-01-20
+14,113,Sameer,Khan,29.083333333333332,65000.0,Unassigned,sameer@gmail.com,,2023-05-10
